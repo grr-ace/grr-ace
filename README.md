@@ -3,11 +3,11 @@
 I'm a software engineer who has completed the rigorous 42 Berlin curriculum. My background is in sustainability, a theme I work to incorporate into every facet of my life. I love programming and solving problems, with a particular enthusiasm for green coding practices - writing and designing software to minimise energy use, so as to reduce costs and carbon emissions.
 
 ## ⭐ Featured Projects
-| Mycelium | explanation |
-| Inception | explanation |
-| [IRC](https://github.com/gabrielrial/ft_irc) | A robust C++ chat server supporting concurrent clients through non-blocking I/O. Built from scratch adhering to the RFC 1459 technical specifications. Built with @ grial and Howard |
-| [Minishell](https://github.com/LetsEatApple/minishell) | explanation - built with Lea |
-| [cub3d]() | A program that simulates a 3d game environment using raycasting techniques |
+| [Mycelium](https://github.com/MySeaLeeOom/basic_structure) | A modular open-source personal knowledge management system with built-in real-time collaboration. Final group project of the 42 curriculum. | <br>
+| [Inception](https://github.com/grr-ace/Inception) | A Docker-based infrastructure with NGINX reverse proxy, WordPress, MariaDB and TLS, enabling secure and scalable service orchestration. |
+| [IRC](https://github.com/gabrielrial/ft_irc) | A robust C++ chat server supporting concurrent clients through non-blocking I/O. Built from scratch adhering to the RFC 1459 technical specifications.| <br>
+| [Minishell](https://github.com/LetsEatApple/minishell) | A UNIX shell implementation written in C, that handles commands, redirections, pipes and environmental variables. Built with @LetsEatApples as part of the 42 curriculum. |
+| [cub3d](git@github.com:grr-ace/cub3d-school-repo.git) | A program that simulates a 3d game environment using raycasting techniques |
 
 ## 🛠️ Tech stack
 ### Languages
