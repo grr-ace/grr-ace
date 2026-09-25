@@ -1,12 +1,12 @@
 # Hey, I'm Grace 🌻
 
-I'm a software engineer who has completed the rigorous 42 Berlin curriculum. My background is in sustainability, a theme I work to incorporate into every facet of my life. I love programming and solving problems, with a particular enthusiasm for green coding practices - writing and designing software to minimise energy use, so as to reduce costs and carbon emissions.
+I'm a software engineer who has completed the rigorous 42 Berlin curriculum. My passion is making technology accessible and user-friendly so that everyone can benefit from its use. I love programming and solving problems, with a particular enthusiasm for green coding practices - writing and designing software to minimise energy use (and consequentially carbon emissions and costs).
 
 ## ⭐ Featured Projects
-| [Mycelium](https://github.com/MySeaLeeOom/basic_structure) | A modular open-source personal knowledge management system with built-in real-time collaboration. Final group project of the 42 curriculum. | <br>
+| [Mycelium](https://github.com/MySeaLeeOom/basic_structure) | A modular open-source personal knowledge management system with built-in real-time collaboration. I contributed to building the Nuxt/Vue frontend and accessibility features including i18n implemented localisation. | <br>
 | [Inception](https://github.com/grr-ace/Inception) | A Docker-based infrastructure with NGINX reverse proxy, WordPress, MariaDB and TLS, enabling secure and scalable service orchestration. |
 | [IRC](https://github.com/gabrielrial/ft_irc) | A robust C++ chat server supporting concurrent clients through non-blocking I/O. Built from scratch adhering to the RFC 1459 technical specifications.| <br>
-| [Minishell](https://github.com/LetsEatApple/minishell) | A UNIX shell implementation written in C, that handles commands, redirections, pipes and environmental variables. Built with @LetsEatApples as part of the 42 curriculum. |
+| [Minishell](https://github.com/LetsEatApple/minishell) | A UNIX shell implementation written in C, that handles commands, redirections, pipes and environmental variables. Built with @LetsEatApples as part of the 42 curriculum. | <br>
 | [cub3d](git@github.com:grr-ace/cub3d-school-repo.git) | A program that simulates a 3d game environment using raycasting techniques |
 
 ## 🛠️ Tech stack
